@@ -16,6 +16,7 @@ Known Issues:
 - The PT-EDW1N Telescope still has the LiquidFuel scanner module.
 - XenonGas does not have definitions (Not a bug, just reality: Xenon is not a very common gas. If people want me to add Xenon configs, I'd be more than happy to.)
 - Some resource definitions may have unusually large numbers of particles on the map screen.
+- Lua does not have Hydrogen or Deuterium distributions.
 
 Special Thanks:
 - Squad for creating the game
