@@ -11,6 +11,8 @@ Requirements:
 - SpaceDust
 - Beyond Home
 - CryoTanks (optional)
+- Far Future Technologies (optional)
+- Near Future Propulsion (optional)
 
 Known Issues:
 - The PT-EDW1N Telescope still has the LiquidFuel scanner module.
