@@ -7,7 +7,7 @@ A set of SpaceDust configs for Beyond Home Planet Pack in Kerbal Space Program. 
 To install, place the BHSpaceDust folder in GameData.
 
 Requirements:
-- KSP v. 1.12.3
+- KSP v. 1.12.x
 - SpaceDust
 - Beyond Home
 - CryoTanks (optional)
