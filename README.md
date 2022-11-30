@@ -20,6 +20,8 @@ Known Issues:
 - Some resource definitions may have unusually large numbers of particles on the map screen.
 - Lua does not have Hydrogen or Deuterium distributions.
 
+Please reach out to me at [the KSP Forum](https://forum.kerbalspaceprogram.com) (@Jefftheguyperson) with any issues.
+
 Special Thanks:
 - Squad for creating the game
 - Nertea for creating SpaceDust
